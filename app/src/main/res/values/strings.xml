@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login-SigUp</string>
+    <string name="login">Login</string>
+    <string name="login_text">Please sign in to continue.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="account">Don’t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="new_account">Create a new account</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone</string>
+    <string name="over18">Over 18?</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="susanna_hoffs">Susanna Hoffs</string>
+    <string name="youre_in_paris"> You re in Paris</string>
+    <string name="my_Trips">My Trips</string>
+    <string name="categories">Categories</string>
+</resources>
